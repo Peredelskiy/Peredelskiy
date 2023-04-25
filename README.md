@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Peredelskiy
-- 👀  I’m interested in Full Stack Web Development (JavaScript, PHP, MySQL, HTML/CSS, jQuery)
-- 🌱  I’m currently learning Node.js and React
+- 👀  I’m interested in Full Stack Web Development (Python, JavaScript, React, PHP, MySQL, HTML/CSS)
+- 🌱  I’m currently improving my Python and React skills
 - 💞️  I’m looking to collaborate with ambitious start ups which going to turn over this world!
 - 📫  How to reach me - peredelskiy.i@gmail.com with "From Github" topic
 
